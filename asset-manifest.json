@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/coinhave/static/css/main.981f7211.chunk.css",
+    "main.js": "/coinhave/static/js/main.c9fee35b.chunk.js",
+    "main.js.map": "/coinhave/static/js/main.c9fee35b.chunk.js.map",
+    "runtime-main.js": "/coinhave/static/js/runtime-main.fe797d87.js",
+    "runtime-main.js.map": "/coinhave/static/js/runtime-main.fe797d87.js.map",
+    "static/css/2.86df01db.chunk.css": "/coinhave/static/css/2.86df01db.chunk.css",
+    "static/js/2.31146829.chunk.js": "/coinhave/static/js/2.31146829.chunk.js",
+    "static/js/2.31146829.chunk.js.map": "/coinhave/static/js/2.31146829.chunk.js.map",
+    "index.html": "/coinhave/index.html",
+    "precache-manifest.231d55c88f8628b49f5f7624a736b328.js": "/coinhave/precache-manifest.231d55c88f8628b49f5f7624a736b328.js",
+    "service-worker.js": "/coinhave/service-worker.js",
+    "static/css/2.86df01db.chunk.css.map": "/coinhave/static/css/2.86df01db.chunk.css.map",
+    "static/css/main.981f7211.chunk.css.map": "/coinhave/static/css/main.981f7211.chunk.css.map",
+    "static/js/2.31146829.chunk.js.LICENSE.txt": "/coinhave/static/js/2.31146829.chunk.js.LICENSE.txt",
+    "static/media/persik.png": "/coinhave/static/media/persik.4e1ec840.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe797d87.js",
+    "static/css/2.86df01db.chunk.css",
+    "static/js/2.31146829.chunk.js",
+    "static/css/main.981f7211.chunk.css",
+    "static/js/main.c9fee35b.chunk.js"
+  ]
+}
